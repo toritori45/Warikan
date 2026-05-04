@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">かんたん割り勘電卓</string>
+    <string name="tab_calc">計算</string>
+    <string name="tab_history">履歴</string>
+    <string name="label_total_amount">合計金額（円）</string>
+    <string name="hint_total_amount">例: 5000</string>
+    <string name="label_members">メンバー</string>
+    <string name="hint_person_name">名前を入力</string>
+    <string name="btn_add_person">メンバーを追加</string>
+    <string name="btn_calculate">割り勘を計算する</string>
+    <string name="label_per_person">一人あたり</string>
+    <string name="cd_remove_person">メンバーを削除</string>
+    <string name="btn_share_line">LINEで結果をシェア</string>
+    <string name="share_chooser_title">結果を共有</string>
+</resources>
